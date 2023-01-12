@@ -1,2 +1,2 @@
 # Lung Cancer Machine Learning
-Click on the .xx file to view the project
+Click on the "Lung_Cancer_Machine_Learning.ipynb" file to view the project
